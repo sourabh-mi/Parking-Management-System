@@ -1,0 +1,31 @@
+#login{
+    align-items: center;
+    display: flex;
+   height:600px;   
+}
+#login h2{
+    text-align: center;
+}
+#header{
+background: blue;
+padding: 15px 0px;
+}
+#header button{
+    float: right;
+}
+#header h2{
+    color:azure;
+}
+#footer{
+    background:blue;
+    padding:10px 0px;
+}
+#footer h5{
+    text-align: center;
+    color: aliceblue;
+}
+#print{
+    align-items: center;
+    display: flex;
+    height: 600px;
+}
